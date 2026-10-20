@@ -1,1 +1,6 @@
 # SENAC
+Nome do projeto: Controle de versões de codigo
+Nome do aluno: Ana Carolina da Costa Nogueira
+Objetivos da aplicação e tecnologias utilizadas: Controlar vesões de códigos para ter um desenvolvimento colaborativo 
+Orientações básicas para executar o projeto: ...
+Melhorias previstas: ...
